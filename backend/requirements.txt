@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic-settings
+python-multipart
+PyMuPDF
+python-docx
+google-genai
+supabase
